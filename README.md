@@ -6,17 +6,17 @@
 *Levantamento baseado na experiência profissional (Product Owner/Manager), background financeiro e certificações.*
 
 ### 🛠 Habilidades Técnicas (Hard Skills)
-* [cite_start]**Gestão de Produtos Digitais:** Visão de ponta a ponta, do Discovery ao Delivery[cite: 98, 99].
-* [cite_start]**Metodologias Ágeis:** Scrum (PSPO I Certified), Kanban, Lean, Gestão de Backlog e User Stories[cite: 101, 159, 162].
-* [cite_start]**Análise de Dados (Data-Driven):** Tomada de decisão baseada em métricas de adoção, churn, NPS e eficiência[cite: 132, 159].
-* [cite_start]**Ferramentas de Gestão:** JIRA, Confluence, Monday.com, Oracle HCM[cite: 160].
-* [cite_start]**Conhecimento Técnico:** Interface com APIs, banco de dados e arquitetura para diálogo com desenvolvedores[cite: 112, 119].
+* **Gestão de Produtos Digitais:** Visão de ponta a ponta, do Discovery ao Delivery[cite: 98, 99].
+* **Metodologias Ágeis:** Scrum (PSPO I Certified), Kanban, Lean, Gestão de Backlog e User Stories[cite: 101, 159, 162].
+* **Análise de Dados (Data-Driven):** Tomada de decisão baseada em métricas de adoção, churn, NPS e eficiência[cite: 132, 159].
+* **Ferramentas de Gestão:** JIRA, Confluence, Monday.com, Oracle HCM[cite: 160].
+* **Conhecimento Técnico:** Interface com APIs, banco de dados e arquitetura para diálogo com desenvolvedores[cite: 112, 119].
 * **Idiomas:** Inglês Profissional Completo.
 
 ### 🧠 Habilidades Comportamentais (Soft Skills)
 * **Liderança e Influência:** Gestão de stakeholders, negociação e oratória (Escola Conquer).
-* [cite_start]**Facilitação:** Condução de workshops de Design Thinking e cerimônias ágeis[cite: 131].
-* [cite_start]**Visão Estratégica:** Alinhamento de Roadmaps com OKRs e objetivos de negócio[cite: 130].
+* **Facilitação:** Condução de workshops de Design Thinking e cerimônias ágeis[cite: 131].
+* **Visão Estratégica:** Alinhamento de Roadmaps com OKRs e objetivos de negócio[cite: 130].
 * **Adaptabilidade:** Transição de carreira sólida (Financeiro → Tecnologia) e atuação em ambientes multiculturais.
 
 ---
@@ -29,8 +29,8 @@
     * **Sim.** Há alta demanda global por POs que consigam traduzir necessidades de negócio para times técnicos, especialmente aqueles com fluência em inglês.
 * **Que problema resolve?**
     * **Redução de Desperdício:** Evita o desenvolvimento de features sem valor, focando no que realmente importa.
-    * [cite_start]**Eficiência Operacional:** Histórico comprovado de redução de tempo de entrega em 30% através de MVPs bem definidos[cite: 129].
-    * [cite_start]**Conexão Tech/Biz:** Atua como "tradutor" entre a diretoria (estratégia) e a engenharia (execução)[cite: 133].
+    * **Eficiência Operacional:** Histórico comprovado de redução de tempo de entrega em 30% através de MVPs bem definidos[cite: 129].
+    * **Conexão Tech/Biz:** Atua como "tradutor" entre a diretoria (estratégia) e a engenharia (execução)[cite: 133].
 * **Público Alvo:** Fintechs, Startups em escala e Grandes Empresas em transformação digital.
 
 ---
@@ -59,7 +59,7 @@
 ## 📱 Ferramentas e Processos de Pesquisa
 *Recursos utilizados para manter as habilidades atualizadas e resolver problemas (Conforme sugerido no material de apoio).*
 
-* [cite_start]**Inteligência Artificial:** Uso de ChatGPT/Gemini para gerar rascunhos de User Stories e análise de tendências de mercado[cite: 16, 39].
+* **Inteligência Artificial:** Uso de ChatGPT/Gemini para gerar rascunhos de User Stories e análise de tendências de mercado[cite: 16, 39].
 * **Comunidades:** Participação ativa em fóruns da DIO e grupos de Agile/Scrum.
 * **Referências Oficiais:** Scrum Guide, Documentação de APIs e Artigos de Product Management.
 
